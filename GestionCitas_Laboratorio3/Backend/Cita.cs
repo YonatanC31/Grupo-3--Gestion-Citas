@@ -1,4 +1,4 @@
-﻿using GestionCitas;
+using GestionCitas;
 using Spectre.Console;
 using System;
 using System.Collections.Generic;
