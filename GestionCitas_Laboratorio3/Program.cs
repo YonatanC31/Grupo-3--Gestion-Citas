@@ -1,4 +1,4 @@
-﻿using GestionCitas;
+using GestionCitas;
 using GestionCitas_Laboratorio3.Backend;
 using Spectre.Console;
 
