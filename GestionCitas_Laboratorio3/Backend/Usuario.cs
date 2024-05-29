@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using GestionCitas_Laboratorio3.Backend;
 using GestionCitas_Laboratorio3.IU;
