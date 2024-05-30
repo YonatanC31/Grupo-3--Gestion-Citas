@@ -18,6 +18,7 @@ public class LoginTests
         Assert.IsType<Administrador>(usuario);
     }
 
+    
     [Fact]
     public void AutenticarCredencialesIncorrectasLanzaAuthenticationException()
     {
