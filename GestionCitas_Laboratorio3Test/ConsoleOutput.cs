@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
 
+
+
 public class ConsoleOutput : IDisposable
 {
     private StringWriter stringWriter;
