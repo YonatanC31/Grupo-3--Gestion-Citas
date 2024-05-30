@@ -77,10 +77,6 @@ public class Program
 
 
 
-
-
-
-
      public static void MostrarMenuAdministrador(List<Doctor> doctores, List<Paciente> pacientes, List<Usuario> usuarios, Login login)
     {
         bool salir = false;
